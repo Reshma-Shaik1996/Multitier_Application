@@ -1,0 +1,10 @@
+C:\Users\fifi\source\repos\Midterm_ClientDB_Reshma\Midterm_ClientDB_Reshma\bin\Debug\Midterm_ClientDB_Reshma.exe.config
+C:\Users\fifi\source\repos\Midterm_ClientDB_Reshma\Midterm_ClientDB_Reshma\bin\Debug\Midterm_ClientDB_Reshma.exe
+C:\Users\fifi\source\repos\Midterm_ClientDB_Reshma\Midterm_ClientDB_Reshma\bin\Debug\Midterm_ClientDB_Reshma.pdb
+C:\Users\fifi\source\repos\Midterm_ClientDB_Reshma\Midterm_ClientDB_Reshma\obj\Debug\Midterm_ClientDB_Reshma.csprojAssemblyReference.cache
+C:\Users\fifi\source\repos\Midterm_ClientDB_Reshma\Midterm_ClientDB_Reshma\obj\Debug\Midterm_ClientDB_Reshma.GUI.FormCLient.resources
+C:\Users\fifi\source\repos\Midterm_ClientDB_Reshma\Midterm_ClientDB_Reshma\obj\Debug\Midterm_ClientDB_Reshma.Properties.Resources.resources
+C:\Users\fifi\source\repos\Midterm_ClientDB_Reshma\Midterm_ClientDB_Reshma\obj\Debug\Midterm_ClientDB_Reshma.csproj.GenerateResource.cache
+C:\Users\fifi\source\repos\Midterm_ClientDB_Reshma\Midterm_ClientDB_Reshma\obj\Debug\Midterm_ClientDB_Reshma.csproj.CoreCompileInputs.cache
+C:\Users\fifi\source\repos\Midterm_ClientDB_Reshma\Midterm_ClientDB_Reshma\obj\Debug\Midterm_ClientDB_Reshma.exe
+C:\Users\fifi\source\repos\Midterm_ClientDB_Reshma\Midterm_ClientDB_Reshma\obj\Debug\Midterm_ClientDB_Reshma.pdb
